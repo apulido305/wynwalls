@@ -1,16 +1,16 @@
-#WYNWALLS
+#WYNWALLS#
 Wynwalls is a google chrome extension that was built in Miami Fl. I wanted to learn to build google chrome extensions and put the wynwood art scene on the map.
 
-##Getting Started
+##Getting Started##
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-###Prerequisites
+###Prerequisites###
 What things you need to install the software and how to install them
 
 Google Chrome browser
 
 
-###Installing
+###Installing###
 ```
 Dowload the files to a local folder.
 ```
@@ -33,19 +33,19 @@ Alternatively, you can drag and drop the directory where your extension files li
 Open a new tab and the Wynwalls extension should run.
 ```
 
-##Built With
+##Built With##
 Javascript
 jQuery
 Html5
 CSS
 
-##Contributing
+##Contributing##
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 
-##Authors
+##Authors##
 Antonio Pulido
 
 
-##Acknowledgments
+##Acknowledgments##
 scotch.io 
