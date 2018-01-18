@@ -41,8 +41,9 @@ Open a new tab and the Wynwalls extension should run.
 ### Built With
 Javascript
 jQuery
-Html5
+HTML5
 CSS
+BootStrap
 
 ### Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
